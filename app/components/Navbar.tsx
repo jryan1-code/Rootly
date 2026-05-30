@@ -4,7 +4,7 @@ export default function Navbar() {
       <a href="/" className="flex items-center gap-3">
         <img
   src="/iris.png"
-  alt="Rootly"
+  alt="Irida"
   className="h-16 w-16 object-contain border border-red-500"
 />
 

@@ -33,7 +33,7 @@ export default function EmotionalRegulation() {
     <main className="min-h-screen bg-white text-black font-serif">
       <nav className="flex items-center justify-between px-12 py-6 bg-white border-b border-[#4B9CD3]/30">
         <a href="/" className="text-3xl font-bold text-[#5b3e31]">
-          Rootly
+          Irida 
         </a>
 
         <div className="flex gap-12 text-lg text-[#1E3A5F] font-bold">

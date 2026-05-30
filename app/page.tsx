@@ -38,13 +38,13 @@ export default function Home() {
         <div className="flex items-center gap-1">
           <img
             src="/iris.png"
-            alt="Rootly"
+            alt="Irida"
             className="h-10 w-10 md:h-14 md:w-14 object-contain"
           />
 
           <div>
             <div className="text-2xl md:text-4xl font-bold text-[#1E3A5F]">
-              Rootly
+              Irida 
             </div>
 
             <p className="text-sm text-[#1E3A5F]/75 mt-1">
