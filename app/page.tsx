@@ -38,13 +38,13 @@ export default function Home() {
         <div className="flex items-center gap-1">
           <img
             src="/iris.png"
-            alt="Irida"
+            alt="Irisly"
             className="h-10 w-10 md:h-14 md:w-14 object-contain"
           />
 
           <div>
             <div className="text-2xl md:text-4xl font-bold text-[#1E3A5F]">
-              Irida 
+              Irisly 
             </div>
 
             <p className="text-sm text-[#1E3A5F]/75 mt-1">
